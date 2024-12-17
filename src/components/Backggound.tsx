@@ -1,4 +1,3 @@
-import React from "react";
 import Card from "@mui/material/Card";
 import CardActions from "@mui/material/CardActions";
 import CardContent from "@mui/material/CardContent";
@@ -9,9 +8,9 @@ import { Box } from "@mui/material";
 import SnaceBar from "./SnaceBar";
 import DitalesComp from "./DitalesComp";
 
-const Styles = {
-  button: { ":hover": { border: "solid 0.5px" } },
-};
+// const Styles = {
+//   button: { ":hover": { border: "solid 0.5px" } },
+// };
 
 const Backggound = () => {
   return (
